@@ -14,7 +14,7 @@
 
 <br/>
 
-**Language & Tools:** 
+<h2> Language & Tools </h2>
 
 <br/>
 
@@ -31,8 +31,6 @@
 
 
 <br/>
-
-#
 
 
 <br>
