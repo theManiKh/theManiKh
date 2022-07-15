@@ -34,4 +34,4 @@
 
 <h2> Discord </h2>
 
-![](https://discord.c99.nl/widget/theme-2/841250866895781918.png)
+![](https://discord.c99.nl/widget/theme-2/991176023003648010.png)
