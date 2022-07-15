@@ -13,11 +13,9 @@
 
 
 <br>
-
-<h2> Language & Tools </h2>
-
 <br>
 
+<h2> Language & Tools </h2>
 
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
@@ -37,8 +35,8 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theManiKh&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=theManiKh&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 <br>
+<br>
 
 <h2> Discord </h2>
-
 
 ![](https://discord.c99.nl/widget/theme-2/841250866895781918.png)
