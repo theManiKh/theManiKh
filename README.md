@@ -9,11 +9,13 @@
   
 - 🌱 I’m looking to collaborate on new Statup projects and ideas
   
-- 💬 Ask me about Python & Lua.
+- 💬 Ask me about Python & Lua. 
 
-**Language & Tools:**  
 
 <br/>
+
+**Language & Tools:** 
+
 <br/>
 
 
