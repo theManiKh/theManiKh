@@ -7,8 +7,6 @@
 - 🔭 I’m Mani and 18 yo
   
 - 🌱 I’m looking to collaborate on new Startup projects and ideas
-  
-- 💬 Ask me about Python & Lua. 
 
 
 <br>
