@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=theManiKh)
+<br>
 
 <h2> About Me </h2>
 
