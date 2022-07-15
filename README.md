@@ -28,13 +28,15 @@
 
 
 <br>
+<br>
 
-
+<h2> GitHub State </h2>
 
 | ![theManiKh's github stats](https://github-readme-stats.vercel.app/api?username=theManiKh&show_icons=true&theme=tokyonight) | ![theManiKh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theManiKh&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theManiKh&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=theManiKh&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
+<br>
 
 <h2> Discord </h2>
 
